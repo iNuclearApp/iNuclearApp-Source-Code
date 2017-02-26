@@ -1,2 +1,2 @@
-# iNuclearApp-Source-Code
-All the files used to run iNuclearApp
+# iNuclearApp Source Code
+Welcome! Here are all the files which are used to run iNuclearApp! We published them, so we can support young developers growing up everyday and wanting to create something! So, we gave them a push and a base project, but BE CAREFUL: If you ever upload these files online and you copy everything from us, your site and your work will be terminated and reported. Remember: When you are reported twice, you get arrested! We published our code, so people who think this app was created by stolen code! Here they can be proven wrong! Also this source code is published, if I ever lose offline access! Thanks for reading everything! Have a good day!
